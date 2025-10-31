@@ -76,3 +76,4 @@
     <img src="https://lanyard.cnrad.dev/api/123456789012345678?theme=dark&bg=1e1e1e&animated=true&hideDiscrim=true&borderRadius=15px" alt="Discord Presence"/>
   </a>
 </div>
+https://discord.com/users/1188712861510422549
