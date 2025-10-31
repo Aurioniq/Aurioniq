@@ -49,6 +49,14 @@
 
 ###
 
+<div align="center">
+  <a href="https://aurioniq.dev" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Visit%20My%20Portfolio-1e1e1e?style=for-the-badge&logo=google-chrome&logoColor=white" height="35" alt="portfolio website" />
+  </a>
+</div>
+
+###
+
 <div align="left">
   <a href="https://discord.gg/PXAQrWTv" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -60,3 +68,11 @@
 </div>
 
 ###
+
+<h3 align="center">🎧 Live Discord Status</h3>
+
+<div align="center">
+  <a href="https://discord.com/users/123456789012345678" target="_blank">
+    <img src="https://lanyard.cnrad.dev/api/123456789012345678?theme=dark&bg=1e1e1e&animated=true&hideDiscrim=true&borderRadius=15px" alt="Discord Presence"/>
+  </a>
+</div>
