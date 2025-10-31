@@ -53,19 +53,19 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/aurioniq" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo" />
   </a>
   <a href="https://twitter.com/aurioniq" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="35" alt="x logo" />
   </a>
 </div>
 
-<!-- BEGGING / SUPPORT BADGES (slightly below, tight spacing) -->
+<!-- SUPPORT BADGES -->
 <div align="left" style="margin-top: 4px;">
   <a href="https://ko-fi.com/aurioniq" target="_blank">
     <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" height="35" alt="ko-fi logo" />
   </a>
-  <a href="#" title="LZ8pD1Qf9AZBhmNquhj52qZF6rmxzyNTeD" target="_blank">
+  <a href="https://litecoinspace.org/address/LZ8pD1Qf9AZBhmNquhj52qZF6rmxzyNTeD" target="_blank">
     <img src="https://img.shields.io/badge/LTC%20Wallet-345D9D?style=for-the-badge&logo=litecoin&logoColor=white" height="35" alt="ltc logo" />
   </a>
 </div>
