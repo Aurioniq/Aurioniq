@@ -49,30 +49,31 @@
 
 ###
 
-<div align="center">
-  <a href="https://aurioniq.dev" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Visit%20My%20Portfolio-5e60ce?style=for-the-badge&logo=google-chrome&logoColor=white" height="35" alt="portfolio website" />
-  </a>
-</div>
-
-###
-
 <div align="left">
   <a href="https://discord.gg/PXAQrWTv" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
+  <a href="mailto:aurioniq@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/aurioniq" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/aurioniq" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://ko-fi.com/aurioniq" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
+  </a>
+  <a href="https://aurioniq.vercel.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
+  </a>
 </div>
 
 ###
 
-<h3 align="center">🎮 Live Presence</h3>
-
 <div align="center">
-  <a href="https://discord.com/users/123456789012345678" target="_blank">
-    <img src="https://lanyard-profile-readme.vercel.app/api/123456789012345678?theme=dark&bg=1e1e1e&animated=true&hideStatus=false&borderRadius=15px" alt="Discord Presence" />
+  <a href="https://discord.com/users/652252470189228063">
+    <img src="https://lanyard.cnrad.dev/api/652252470189228063" alt="Aurioniq's Discord Status" />
   </a>
 </div>
