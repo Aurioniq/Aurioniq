@@ -2,6 +2,14 @@
 
 ###
 
+<div align="left">
+  <a href="https://aurioniq.vercel.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=🌐 Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio badge" />
+  </a>
+</div>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aurioniq&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aurioniq&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -50,9 +58,6 @@
 ###
 
 <div align="left">
-  <a href="https://discord.gg/PXAQrWTv" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
   <a href="mailto:aurioniq@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -65,8 +70,8 @@
   <a href="https://ko-fi.com/aurioniq" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
   </a>
-  <a href="https://aurioniq.vercel.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LTC%20Wallet&logo=litecoin&label=&color=345D9D&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ltc logo"  />
   </a>
 </div>
 
