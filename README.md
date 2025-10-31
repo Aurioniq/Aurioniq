@@ -58,15 +58,14 @@
   <a href="https://twitter.com/aurioniq" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="35" alt="x logo" />
   </a>
+</div>
 
-  <!-- SMALL GAP BETWEEN SOCIAL & SUPPORT -->
-  <img width="10" />
-
-  <!-- SUPPORT (KO-FI + LTC) -->
+<!-- BEGGING / SUPPORT BADGES (slightly below, tight spacing) -->
+<div align="left" style="margin-top: 4px;">
   <a href="https://ko-fi.com/aurioniq" target="_blank">
     <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" height="35" alt="ko-fi logo" />
   </a>
-  <a href="#" target="_blank">
+  <a href="#" title="LZ8pD1Qf9AZBhmNquhj52qZF6rmxzyNTeD" target="_blank">
     <img src="https://img.shields.io/badge/LTC%20Wallet-345D9D?style=for-the-badge&logo=litecoin&logoColor=white" height="35" alt="ltc logo" />
   </a>
 </div>
