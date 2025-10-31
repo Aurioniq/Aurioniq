@@ -4,7 +4,7 @@
 
 <div align="left">
   <a href="https://aurioniq.vercel.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio badge" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="35" alt="portfolio badge" />
   </a>
 </div>
 
@@ -47,30 +47,33 @@
 
 ###
 
+<!-- SOCIAL MEDIA BADGES -->
 <div align="left">
-  <!-- Social Links -->
   <a href="mailto:aurioniq@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/aurioniq" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo" />
   </a>
   <a href="https://twitter.com/aurioniq" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="x logo"  />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="35" alt="x logo" />
   </a>
 
-  <!-- Ko-fi + LTC (on same line, no gap) -->
+  <!-- SMALL GAP BETWEEN SOCIAL & SUPPORT -->
+  <img width="10" />
+
+  <!-- SUPPORT (KO-FI + LTC) -->
   <a href="https://ko-fi.com/aurioniq" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" height="35" alt="ko-fi logo" />
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LTC%20Wallet&logo=litecoin&label=&color=345D9D&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ltc logo"  />
+    <img src="https://img.shields.io/badge/LTC%20Wallet-345D9D?style=for-the-badge&logo=litecoin&logoColor=white" height="35" alt="ltc logo" />
   </a>
 </div>
 
 ###
 
-<!-- Live Discord Status -->
+<!-- LIVE DISCORD STATUS -->
 <div align="center">
   <a href="https://discord.com/users/652252470189228063">
     <img src="https://lanyard.cnrad.dev/api/652252470189228063" alt="Aurioniq's Discord Status" />
