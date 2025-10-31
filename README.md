@@ -4,7 +4,7 @@
 
 <div align="left">
   <a href="https://aurioniq.vercel.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=🌐 Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio badge" />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio badge" />
   </a>
 </div>
 
@@ -57,6 +57,7 @@
 
 ###
 
+<!-- Social Media Section -->
 <div align="left">
   <a href="mailto:aurioniq@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -67,6 +68,12 @@
   <a href="https://twitter.com/aurioniq" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
+</div>
+
+###
+
+<!-- Support / Donation Section -->
+<div align="left">
   <a href="https://ko-fi.com/aurioniq" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
   </a>
@@ -77,6 +84,7 @@
 
 ###
 
+<!-- Live Discord Status -->
 <div align="center">
   <a href="https://discord.com/users/652252470189228063">
     <img src="https://lanyard.cnrad.dev/api/652252470189228063" alt="Aurioniq's Discord Status" />
