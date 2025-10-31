@@ -51,7 +51,7 @@
 
 <div align="center">
   <a href="https://aurioniq.dev" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Visit%20My%20Portfolio-1e1e1e?style=for-the-badge&logo=google-chrome&logoColor=white" height="35" alt="portfolio website" />
+    <img src="https://img.shields.io/badge/🌐 Visit%20My%20Portfolio-5e60ce?style=for-the-badge&logo=google-chrome&logoColor=white" height="35" alt="portfolio website" />
   </a>
 </div>
 
@@ -69,11 +69,10 @@
 
 ###
 
-<h3 align="center">🎧 Live Discord Status</h3>
+<h3 align="center">🎮 Live Presence</h3>
 
 <div align="center">
   <a href="https://discord.com/users/123456789012345678" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/123456789012345678?theme=dark&bg=1e1e1e&animated=true&hideDiscrim=true&borderRadius=15px" alt="Discord Presence"/>
+    <img src="https://lanyard-profile-readme.vercel.app/api/123456789012345678?theme=dark&bg=1e1e1e&animated=true&hideStatus=false&borderRadius=15px" alt="Discord Presence" />
   </a>
 </div>
-https://discord.com/users/1188712861510422549
