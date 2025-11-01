@@ -87,7 +87,7 @@
     <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" height="35" alt="ko-fi logo" />
   </a>
   <a href="https://litecoinspace.org/address/LZ8pD1Qf9AZBhmNquhj52qZF6rmxzyNTeD" target="_blank">
-    <img src="https://img.shields.io/badge/LTC%20Wallet-345D9D?style=for-the-badge&logo=litecoin&logoColor=white" height="35" alt="ltc logo" />
+    <img src="https://img.shields.io/badge/LTC%20Addy-345D9D?style=for-the-badge&logo=litecoin&logoColor=white" height="35" alt="ltc logo" />
   </a>
 </div>
 
