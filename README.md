@@ -10,6 +10,17 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aurioniq&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aurioniq&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.postimg.cc/KzhbyyYL/Chat-GPT-Image-Nov-1-2025-12-33-33-AM.png"  />
+
+###
+
 <div align="left">
   <!-- Core Language -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
@@ -33,8 +44,6 @@
 
   <!-- Discord / APIs -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="30" alt="discord.js logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Discord_logo.svg" height="30" alt="discord.py logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo" />
   <img width="12" />
@@ -61,6 +70,30 @@
   <img src="https://cdn-icons-png.flaticon.com/512/906/906361.png" height="30" alt="networking logo" />
 </div>
 
+###
+
+<!-- SOCIAL MEDIA BADGES -->
+<div align="left">
+  <a href="mailto:aurioniq@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/aurioniq" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo" />
+  </a>
+  <a href="https://twitter.com/aurioniq" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="35" alt="x logo" />
+  </a>
+</div>
+
+<!-- SUPPORT BADGES -->
+<div align="left" style="margin-top: 4px;">
+  <a href="https://ko-fi.com/aurioniq" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" height="35" alt="ko-fi logo" />
+  </a>
+  <a href="https://litecoinspace.org/address/LZ8pD1Qf9AZBhmNquhj52qZF6rmxzyNTeD" target="_blank">
+    <img src="https://img.shields.io/badge/LTC%20Wallet-345D9D?style=for-the-badge&logo=litecoin&logoColor=white" height="35" alt="ltc logo" />
+  </a>
+</div>
 
 ###
 
